@@ -31,7 +31,7 @@ Cloud Security        :: CSPM, CIEM, IAM Hardening, Security Groups, KMS, GuardD
 Automation & Script   :: Python 3, Bash / Shell, PowerShell, Git, REST APIs
 Infrastructure as Code: Terraform, Ansible, Docker
 Threat Intel & Models :: CISA KEV, MITRE ATT&CK, NIST CSF, STRIDE, FIRST EPSS
-Standards & Frameworks:: ISO 27001, ENS, CIS Benchmarks, Cloud Security Alliance (CSA)
+Standards & Frameworks:: ISO 27001, ENS, CIS Benchmarks, Cloud Security Alliance (CSA), NIST SP 800-207
 ```
 
 ---
@@ -40,6 +40,9 @@ Standards & Frameworks:: ISO 27001, ENS, CIS Benchmarks, Cloud Security Alliance
 - 📡 [**threat-intel-watcher**](https://github.com/GarciaVillenaLuis/threat-intel-watcher): Autonomous cloud pipeline tracking CISA Known Exploited Vulnerabilities (KEV) in real time.
 - ☁️ [**cloud-sec-benchmarks**](https://github.com/GarciaVillenaLuis/cloud-sec-benchmarks): Automated CIS baseline checks and CSPM policy validation signatures.
 - 🎯 [**epss-threat-radar**](https://github.com/GarciaVillenaLuis/epss-threat-radar): Daily correlation engine prioritizing high-risk vulnerabilities via EPSS scoring.
+- 🏗️ [**terraform-azure-landing-zone-guardrails**](https://github.com/GarciaVillenaLuis/terraform-azure-landing-zone-guardrails): Policy-as-Code guardrails and compliance checks for enterprise Azure Landing Zones.
+- 🔑 [**aws-iam-least-privilege-auditor**](https://github.com/GarciaVillenaLuis/aws-iam-least-privilege-auditor): Autonomous CIEM engine auditing privilege escalation risks and IAM hygiene in AWS.
+- 🌐 [**zero-trust-posture-matrix**](https://github.com/GarciaVillenaLuis/zero-trust-posture-matrix): Enterprise Zero Trust Architecture continuous verification index based on NIST SP 800-207.
 
 ---
 
