@@ -37,12 +37,15 @@ Standards & Frameworks:: ISO 27001, ENS, CIS Benchmarks, Cloud Security Alliance
 ---
 
 ### 📊 Security Telemetry & Active Cloud Observability
-- 📡 [**threat-intel-watcher**](https://github.com/GarciaVillenaLuis/threat-intel-watcher): Autonomous cloud pipeline tracking CISA Known Exploited Vulnerabilities (KEV) in real time.
-- ☁️ [**cloud-sec-benchmarks**](https://github.com/GarciaVillenaLuis/cloud-sec-benchmarks): Automated CIS baseline checks and CSPM policy validation signatures.
-- 🎯 [**epss-threat-radar**](https://github.com/GarciaVillenaLuis/epss-threat-radar): Daily correlation engine prioritizing high-risk vulnerabilities via EPSS scoring.
-- 🏗️ [**terraform-azure-landing-zone-guardrails**](https://github.com/GarciaVillenaLuis/terraform-azure-landing-zone-guardrails): Policy-as-Code guardrails and compliance checks for enterprise Azure Landing Zones.
-- 🔑 [**aws-iam-least-privilege-auditor**](https://github.com/GarciaVillenaLuis/aws-iam-least-privilege-auditor): Autonomous CIEM engine auditing privilege escalation risks and IAM hygiene in AWS.
-- 🌐 [**zero-trust-posture-matrix**](https://github.com/GarciaVillenaLuis/zero-trust-posture-matrix): Enterprise Zero Trust Architecture continuous verification index based on NIST SP 800-207.
+
+| Repository & Security Tool | Live CI/CD Pipeline | Primary Framework & Standard |
+| :--- | :---: | :--- |
+| 📡 [**threat-intel-watcher**](https://github.com/GarciaVillenaLuis/threat-intel-watcher) | [![CI](https://github.com/GarciaVillenaLuis/threat-intel-watcher/actions/workflows/ci.yml/badge.svg)](https://github.com/GarciaVillenaLuis/threat-intel-watcher/actions/workflows/ci.yml) | CISA KEV Catalog & NVD Telemetry Watcher |
+| ☁️ [**cloud-sec-benchmarks**](https://github.com/GarciaVillenaLuis/cloud-sec-benchmarks) | [![CI](https://github.com/GarciaVillenaLuis/cloud-sec-benchmarks/actions/workflows/ci.yml/badge.svg)](https://github.com/GarciaVillenaLuis/cloud-sec-benchmarks/actions/workflows/ci.yml) | CIS Foundations Benchmark (AWS v3.0 / Azure v2.1) |
+| 🎯 [**epss-threat-radar**](https://github.com/GarciaVillenaLuis/epss-threat-radar) | [![CI](https://github.com/GarciaVillenaLuis/epss-threat-radar/actions/workflows/ci.yml/badge.svg)](https://github.com/GarciaVillenaLuis/epss-threat-radar/actions/workflows/ci.yml) | FIRST EPSS & CVSS Exploit Risk Index (ERI) |
+| 🏗️ [**terraform-azure-landing-zone-guardrails**](https://github.com/GarciaVillenaLuis/terraform-azure-landing-zone-guardrails) | [![CI](https://github.com/GarciaVillenaLuis/terraform-azure-landing-zone-guardrails/actions/workflows/ci.yml/badge.svg)](https://github.com/GarciaVillenaLuis/terraform-azure-landing-zone-guardrails/actions/workflows/ci.yml) | Azure Cloud Adoption Framework (CAF) Policy-as-Code |
+| 🔑 [**aws-iam-least-privilege-auditor**](https://github.com/GarciaVillenaLuis/aws-iam-least-privilege-auditor) | [![CI](https://github.com/GarciaVillenaLuis/aws-iam-least-privilege-auditor/actions/workflows/ci.yml/badge.svg)](https://github.com/GarciaVillenaLuis/aws-iam-least-privilege-auditor/actions/workflows/ci.yml) | AWS CIEM & 21 MITRE ATT&CK Privilege Escalation Vectors |
+| 🌐 [**zero-trust-posture-matrix**](https://github.com/GarciaVillenaLuis/zero-trust-posture-matrix) | [![CI](https://github.com/GarciaVillenaLuis/zero-trust-posture-matrix/actions/workflows/ci.yml/badge.svg)](https://github.com/GarciaVillenaLuis/zero-trust-posture-matrix/actions/workflows/ci.yml) | NIST SP 800-207 & CISA ZTMM Multi-Pillar Index |
 
 ---
 
